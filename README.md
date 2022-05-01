@@ -1,2 +1,2 @@
 # EnergyConsumptionAI
-AI program to predict the consuption of energy of an area in america.
+AI program to predict the energy consumption of an American city.
